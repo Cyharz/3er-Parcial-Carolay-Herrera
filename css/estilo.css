@@ -189,7 +189,7 @@ main section#cover article figure a:hover { animation-name: gradient; -webkit-an
 }
 
 main section#productos { width: auto; height: auto; position: relative; margin-bottom: 140px; }
-main section#productos h1 { color: #ea899a; text-align: center; margin-bottom: 70px; font-family: 'Nanum Myeongjo', serif; font-size: 2.5em; font-weight: 700; letter-spacing: .05em; }
+main section#productos h1 { color: #ea899a; text-align: center; margin-bottom: 70px; font-family: 'Nanum Myeongjo', serif; font-size: 2.5em; font-weight: 700; letter-spacing: .05em; text-shadow: 2px 2px 2px #E1E1E1; }
 main section#productos article { width: auto; height: auto; display: flex; overflow-x: auto; overflow-y: hidden;}
 main section#productos article a { text-decoration: none; text-align: center; margin-bottom: 50px; color: #4C4C4C;}
 main section#productos article a h2 { font-family: 'Nanum Myeongjo', serif; }
